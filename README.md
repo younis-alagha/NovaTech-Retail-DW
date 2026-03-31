@@ -1,5 +1,7 @@
 # NovaTech Retail Data Warehouse
 
+![Architecture](docs/architecture.png)
+
 ## What this project is
 
 This project takes messy retail data and turns it into something useful.
